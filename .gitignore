@@ -11,3 +11,4 @@ packages/
 
 # Include when developing application packages.
 pubspec.lock
+!build/web/src/00/packages
