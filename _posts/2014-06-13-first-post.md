@@ -54,3 +54,15 @@ Let's see what Jekyll can do. I really want to test the range of its iframe supp
 <blockquote class="twitter-tweet" lang="en"><p>UNITY PRAYER (PENTECOST SUNDAY) Pray for all Pentecostal Churches. <a href="http://t.co/RZuZ9wCEgy">http://t.co/RZuZ9wCEgy</a> <a href="http://t.co/ZhGlnYQrD3">http://t.co/ZhGlnYQrD3</a> <a href="http://t.co/aTsvg0jpGq">pic.twitter.com/aTsvg0jpGq</a></p>&mdash; Willie Möller (@W1M0) <a href="https://twitter.com/W1M0/statuses/475742446849359872">June 8, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/111192545216447618286/posts/T9pzjmHKXo8"></div>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="http://plus.google.com/111192545216447618286/posts/T9pzjmHKXo8"></div>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="http://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
