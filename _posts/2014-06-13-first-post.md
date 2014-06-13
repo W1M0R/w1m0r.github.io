@@ -39,16 +39,12 @@ Let's see what Jekyll can do. I really want to test the range of its iframe supp
 
 <details>
 <summary>Google+ Profile Post</summary>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-post" data-href="https://plus.google.com/111192545216447618286/posts/T9pzjmHKXo8"></div>
 </details>
 
 <details>
 <summary>Google+ Page Post</summary>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-post" data-href="https://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
 </details>
