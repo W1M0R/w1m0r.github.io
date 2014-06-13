@@ -39,14 +39,12 @@ Let's see what Jekyll can do. I really want to test the range of its iframe supp
 
 <details>
 <summary>Google+ Profile Post</summary>
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-post" data-href="https://plus.google.com/111192545216447618286/posts/T9pzjmHKXo8"></div>
+<p>A Google+ embed does not like to live inside the details element.</p>
 </details>
 
 <details>
 <summary>Google+ Page Post</summary>
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-post" data-href="https://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
+<p>A Google+ embed does not like to live inside the details element.</p>
 </details>
 
 <details>
@@ -61,8 +59,3 @@ Let's see what Jekyll can do. I really want to test the range of its iframe supp
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-post" data-href="https://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
 
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-post" data-href="http://plus.google.com/111192545216447618286/posts/T9pzjmHKXo8"></div>
-
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-post" data-href="http://plus.google.com/108943423036541186375/posts/42QR7yEjdHK"></div>
