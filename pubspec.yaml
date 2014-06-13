@@ -1,7 +1,0 @@
-name: w1m0_github_io
-description: My GitHub page.
-dependencies:
-  angular:
-    git: https://github.com/angular/angular.dart.git
-  browser: any
-  
